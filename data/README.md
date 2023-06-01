@@ -1,1 +1,0 @@
-This data is here just for the correct completion of video 3.4 of Module 3.
